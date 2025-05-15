@@ -1,0 +1,6 @@
+1. orgs.tsv ; Organizations Database ; Source - https://planet4589.org/space/gcat/tsv/tables/orgs.tsv
+2. satcat.tsv ; Main Object Catalogs ; Source - https://planet4589.org/space/gcat/data/cat/satcat.html
+3. stat002.txt ; Satellite and Debris Population Temporal Cummulative ; https://planet4589.org/space/stats/out/stat002.txt
+4. voronoi.png, created using data extracted from above source and algorithm from components.ai.
+5. Perplexity.ai for code comments and occasional debugging.
+6. No edits made, fully rendered in python/matplot.
